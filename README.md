@@ -6,9 +6,9 @@ PyTorch Implementation of Boundary Seeking GAN
 
 Unofficial PyTorch implementation of [Boundary Seeking GAN](https://arxiv.org/abs/1702.08431) for discrete data generation.
 
-| Binary MNIST, n steps / m epochs | Discrete CelebA with 16 colors, n steps / m epochs|
+|           Binary MNIST, 20k steps / 50 epochs                         |           Discrete CelebA with 16 colors, 80k steps / 50 epochs       |
 |:---------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-| <img src="figures/binary_mnist.gif" width="300"> | <img src="figures/celeba_16_colors.gif" width="300"> |
+| <img src="figures/binary_mnist.gif" width="600"> | <img src="figures/celeba_16_colors.gif" width="600"> |
 
 Usage
 -----
