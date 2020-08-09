@@ -79,6 +79,8 @@ In particular, the following points should be noted:
 Todo
 ----
 
-- Implement sampling from an exponential moving averages generator
-- Implement FID to compare different parameter settings
-- Implement a text generation example
+- [ ] Sampling from EMA generator
+- [ ] Implement FID
+- [ ] Add a text generation example
+- [ ] Improve loss formulation (e.g. relativistic formulation if possible)
+- [ ] Multi-GPU training
